@@ -1,0 +1,17 @@
+{
+  "name": "MyFirstRNApp",
+  "displayName": "MyFirstRNApp",
+  "expo": {
+    "name": "MyFirstRNApp",
+    "slug": "MyFirstRNApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
