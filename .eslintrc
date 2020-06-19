@@ -1,6 +1,7 @@
 {
   "rules":  {
-    "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }]
+    "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
+    "import/no-unresolved": [2, { "ignore": [".png$", ".webp$", ".jpg$"] }]
   },
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
